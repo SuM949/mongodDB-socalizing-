@@ -1,0 +1,24 @@
+{
+  "name": "mongoddb-socalizing-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuM949/mongodDB-socalizing-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuM949/mongodDB-socalizing-/issues"
+  },
+  "homepage": "https://github.com/SuM949/mongodDB-socalizing-#readme",
+  "dependencies": {
+    "dayjs": "^1.11.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5"
+  }
+}
